@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("my menu"),console.log("best slider"),(()=>{const o="my slider";console.log(o),console.log(o)})()})();
